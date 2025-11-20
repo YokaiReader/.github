@@ -61,7 +61,6 @@
 | Role | Name | Handle |
 |------|------|--------|
 | **Founder / Maintainer** | Hiura | @hiuraaaaa |
-| **Original Base Project** | Tachiyomi (archived) | https://tachiyomi.org |
 
 🔹 *Yokai Reader is not affiliated with Tachiyomi. This project is maintained independently for educational and personal use.*
 
