@@ -17,26 +17,27 @@
 
 ---
 
-### ✨ Features
-- Multi-source manga & webtoons  
-- Offline reading  
-- Extensions support  
-- Custom themes & gestures  
-- Zero telemetry / privacy-first  
+## ✨ Features
+- Multi-source manga & webtoons
+- Offline reading
+- Extensions support
+- Custom themes & gestures
+- Zero telemetry / privacy-first
+- Open-source & community-driven
 
 ---
 
-### 📥 Downloads
+## 📥 Downloads
 
 | Platform | Link |
 |----------|------|
 | **Android (APK)** | https://github.com/YokaiReader/Yokai-Android/releases |
-| **Website** | https://yokai.app *(coming soon)* |
 | **Extensions** | https://raw.githubusercontent.com/YokaiReader/extensions/repo/index.min.json |
+| **Website** | https://yokai.app *(coming soon)* |
 
 ---
 
-### 🧩 Main Repositories
+## 🧩 Main Repositories
 
 | Project | Description | Status |
 |---------|------------|--------|
@@ -46,27 +47,57 @@
 
 ---
 
-### 💬 Community
+## 📚 Documentation
+
+| Topic | Link |
+|-------|------|
+| About the project | https://github.com/YokaiReader |
+| Extensions | https://github.com/YokaiReader/extensions |
+| Support / Issues | https://github.com/YokaiReader/Yokai-Android/issues |
+
+---
+
+## ❓ Why is global update skipping entries?
+
+Saat melakukan **Global Update**, beberapa komik mungkin dilewati karena:
+
+- Website sumber sedang down / maintenance
+- Perubahan struktur HTML yang belum diikuti extension
+- Request diblokir (rate-limit) oleh server
+- Kamu menggunakan terlalu banyak sumber sekaligus
+- Ekstensi belum diperbarui
+
+### **Solusi**
+- Update sumber manual satu-per-satu
+- Gunakan sumber alternatif yang lebih stabil
+- Update aplikasi & extensions ke versi terbaru
+- Tunggu perbaikan host / developer extension
+
+> Jika masalah berlanjut, laporkan lewat GitHub Issues.
+
+---
+
+## 💬 Community
 
 > Coming soon — Discord + Telegram community
 
 - Issues & feedback handled via GitHub
-- PRs welcome
-- Community-driven roadmap
+- Pull Requests welcome
+- Roadmap based on community needs
 
 ---
 
-### 🧑‍💻 **Ownership & Credits**
+## 🧑‍💻 Ownership & Credits
 
 | Role | Name | Handle |
 |------|------|--------|
 | **Founder / Maintainer** | Robin | @hiuraaaaa |
 
- *Yokai Reader is not affiliated with Tachiyomi. This project is maintained independently for educational and personal use.*
+*Yokai Reader is not affiliated with Tachiyomi. This project is independently maintained for educational & personal use.*
 
 ---
 
-### 🪪 License
+## 🪪 License
 
 Released under the **MIT License** — free to modify, fork, and distribute responsibly.
 
