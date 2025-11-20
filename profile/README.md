@@ -32,7 +32,7 @@
 |----------|------|
 | **Android (APK)** | https://github.com/YokaiReader/Yokai-Android/releases |
 | **Website** | https://yokai.app *(coming soon)* |
-| **Extensions** | https://github.com/YokaiReader/Yokai-Extensions *(coming soon)* |
+| **Extensions** | https://raw.githubusercontent.com/YokaiReader/extensions/repo/index.min.json |
 
 ---
 
