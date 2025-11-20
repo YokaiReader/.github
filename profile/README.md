@@ -41,7 +41,7 @@
 | Project | Description | Status |
 |---------|------------|--------|
 | **Yokai-Android** | Main application | 🚧 Active |
-| **Yokai-Extensions** | Official extensions | 🔧 In progress |
+| **Yokai-Extensions** | Official extensions | 🚧 Active |
 | **Yokai-Web** | Website & API | 🌐 Planned |
 
 ---
@@ -60,9 +60,9 @@
 
 | Role | Name | Handle |
 |------|------|--------|
-| **Founder / Maintainer** | Hiura | @hiuraaaaa |
+| **Founder / Maintainer** | Robin | @hiuraaaaa |
 
-🔹 *Yokai Reader is not affiliated with Tachiyomi. This project is maintained independently for educational and personal use.*
+ *Yokai Reader is not affiliated with Tachiyomi. This project is maintained independently for educational and personal use.*
 
 ---
 
